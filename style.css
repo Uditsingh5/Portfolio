@@ -170,6 +170,7 @@ button:active {
   background-position: 50% 50%;
 }
 .dibba1 .captions {
+  color:royalblue;
   opacity: 0;
   box-sizing: border-box;
   background-color: #202020a2;
