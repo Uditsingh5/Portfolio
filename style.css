@@ -170,7 +170,8 @@ button:active {
   background-position: 50% 50%;
 }
 .dibba1 .captions {
-  color:royalblue;
+  font-weight: 800;
+  color: rgb(241, 240, 240);
   opacity: 0;
   box-sizing: border-box;
   background-color: #202020a2;
@@ -191,6 +192,8 @@ button:active {
 }
 .captions a {
   padding: 5px;
+  font-weight: 500;
+  color: rgb(241, 240, 240);
 }
 .projects h2 {
   color: #fff;
